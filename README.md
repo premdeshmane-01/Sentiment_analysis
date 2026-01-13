@@ -1,4 +1,4 @@
-yt-comment-sentiment-analysis
+Comment Sentiment Analysis
 ==============================
 
 A small chrome plugin to detect youtube comment sentiments
